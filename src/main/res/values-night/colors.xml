@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- тёмная тема -->
+    <color name="bg">#15151A</color>
+    <color name="card">#1F1F27</color>
+    <color name="text">#F2F2F7</color>
+    <color name="dim">#9B9BAB</color>
+    <color name="line">#2C2C37</color>
+    <color name="accent">#8B5CF6</color>
+    <color name="green">#22A06B</color>
+    <color name="amber">#D99A0B</color>
+    <color name="red">#EF4444</color>
+</resources>
